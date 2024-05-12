@@ -7,7 +7,7 @@ fundCostMultiplier: 100
 id: 0
 layout:
 - - - 0
-name: 'New industry #0'
+name: COal power plant
 placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
@@ -17,13 +17,13 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/new-industry-0/2.png
+      filename: industries/coal-power-plant/2.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/new-industry-0/1.png
+      filename: industries/coal-power-plant/1.png
       left: -31
       top: 0
 type: primary
